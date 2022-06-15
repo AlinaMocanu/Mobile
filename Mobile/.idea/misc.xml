@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Alina/OneDrive/Desktop/chestii/MASTER BDTS/Mobile/app/src/main/res/layout/activity_bottom_navigation_menu.xml" value="0.10256410256410256" />
+        <entry key="..\:/Users/Alina/OneDrive/Desktop/chestii/MASTER BDTS/Mobile/app/src/main/res/layout/fragment_dashboard.xml" value="0.19572649572649573" />
+        <entry key="..\:/Users/Alina/OneDrive/Desktop/chestii/MASTER BDTS/Mobile/app/src/main/res/layout/fragment_home.xml" value="0.2" />
+        <entry key="..\:/Users/Alina/OneDrive/Desktop/chestii/MASTER BDTS/Mobile/app/src/main/res/layout/fragment_notifications.xml" value="0.23854166666666668" />
+        <entry key="..\:/Users/Alina/OneDrive/Desktop/chestii/MASTER BDTS/Mobile/app/src/main/res/menu/bottom_nav_menu.xml" value="0.19572649572649573" />
+        <entry key="..\:/Users/Alina/OneDrive/Desktop/chestii/MASTER BDTS/Mobile/app/src/main/res/menu/menu_main.xml" value="0.19572649572649573" />
+        <entry key="..\:/Users/Alina/OneDrive/Desktop/chestii/MASTER BDTS/Mobile/app/src/main/res/menu/search_menu.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

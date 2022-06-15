@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "187729852036",
+    "project_id": "mobile-a98de",
+    "storage_bucket": "mobile-a98de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187729852036:android:d932c2e4a797b9c18f34d1",
+        "android_client_info": {
+          "package_name": "com.example.proiect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "187729852036-s69f14bg1gkfs2bflf95tb18jt9o2v51.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMrhUfMTydketN8KdkUxUoIzrxTkhx1XE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "187729852036-s69f14bg1gkfs2bflf95tb18jt9o2v51.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
